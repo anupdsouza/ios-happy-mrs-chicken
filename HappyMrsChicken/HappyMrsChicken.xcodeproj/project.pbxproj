@@ -11,6 +11,7 @@
 		E47DA90B2B2AC443009966CF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E47DA90A2B2AC443009966CF /* ContentView.swift */; };
 		E47DA90D2B2AC445009966CF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E47DA90C2B2AC445009966CF /* Assets.xcassets */; };
 		E47DA9102B2AC445009966CF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E47DA90F2B2AC445009966CF /* Preview Assets.xcassets */; };
+		E47DA9172B2AD69A009966CF /* StrokeModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = E47DA9162B2AD69A009966CF /* StrokeModifier.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		E47DA90A2B2AC443009966CF /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		E47DA90C2B2AC445009966CF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E47DA90F2B2AC445009966CF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		E47DA9162B2AD69A009966CF /* StrokeModifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StrokeModifier.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				E47DA9082B2AC443009966CF /* HappyMrsChickenApp.swift */,
 				E47DA90A2B2AC443009966CF /* ContentView.swift */,
+				E47DA9162B2AD69A009966CF /* StrokeModifier.swift */,
 				E47DA90C2B2AC445009966CF /* Assets.xcassets */,
 				E47DA90E2B2AC445009966CF /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E47DA90B2B2AC443009966CF /* ContentView.swift in Sources */,
+				E47DA9172B2AD69A009966CF /* StrokeModifier.swift in Sources */,
 				E47DA9092B2AC443009966CF /* HappyMrsChickenApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
